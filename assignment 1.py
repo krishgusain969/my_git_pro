@@ -7,6 +7,6 @@ print("the product is ",n*x)
 print("the division is ",n/x)
 
 #TASK 2
-n=str(input("enter your first name"))
-x=str(input("enter your last name"))
+n=(input("enter your first name"))
+x=(input("enter your last name"))
 print("hello",n," ", x,"welcome to the python program")
