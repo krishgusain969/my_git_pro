@@ -9,5 +9,5 @@ t=0
 for i in range(51):
       t=t+i
 
-print(t)
+print(f"the sum of frist 50 digits is :{t}")
 
